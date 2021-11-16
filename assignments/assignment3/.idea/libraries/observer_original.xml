@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="observer-original">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/observer-original.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
